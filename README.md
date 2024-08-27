@@ -12,7 +12,8 @@ This Campus Recruitment project provides data of students in a XYZ campus. It in
 •	The dashboard is designed to be user-friendly and relevant.
 3. Data Sources:
 
-•	The dataset is sourced from Kaggle, the data source containing columns as such are: 
+# 3. Data Source
+Campus Analysis Dataset:- https://www.kaggle.com/code/yashvi/campus-recruitment-analysis 
 
 
 # 4. Methodology:
